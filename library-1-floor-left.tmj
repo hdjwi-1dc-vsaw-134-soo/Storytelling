@@ -12701,7 +12701,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "library-1-floor-left-chunk-1-ad483368.png",
+      "image": "library-1-floor-left-chunk-1-5a80631d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12777,7 +12777,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "library-1-floor-left-chunk-2-ad483368.png",
+      "image": "library-1-floor-left-chunk-2-5a80631d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12792,7 +12792,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "library-1-floor-left-chunk-3-ad483368.png",
+      "image": "library-1-floor-left-chunk-3-5a80631d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12807,7 +12807,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "library-1-floor-left-chunk-4-ad483368.png",
+      "image": "library-1-floor-left-chunk-4-5a80631d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12822,7 +12822,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "library-1-floor-left-chunk-5-ad483368.png",
+      "image": "library-1-floor-left-chunk-5-5a80631d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12837,7 +12837,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "library-1-floor-left-chunk-6-ad483368.png",
+      "image": "library-1-floor-left-chunk-6-5a80631d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12852,7 +12852,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "library-1-floor-left-chunk-7-ad483368.png",
+      "image": "library-1-floor-left-chunk-7-5a80631d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12867,7 +12867,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "library-1-floor-left-chunk-8-ad483368.png",
+      "image": "library-1-floor-left-chunk-8-5a80631d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12882,7 +12882,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "library-1-floor-left-chunk-9-ad483368.png",
+      "image": "library-1-floor-left-chunk-9-5a80631d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12897,7 +12897,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "library-1-floor-left-chunk-10-ad483368.png",
+      "image": "library-1-floor-left-chunk-10-5a80631d.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12912,7 +12912,7 @@
     {
       "columns": 10,
       "firstgid": 2561,
-      "image": "library-1-floor-left-chunk-11-ad483368.png",
+      "image": "library-1-floor-left-chunk-11-5a80631d.png",
       "imageheight": 320,
       "imagewidth": 320,
       "margin": 0,
@@ -12936,7 +12936,7 @@
     {
       "name": "mapCopyright",
       "type": "string",
-      "value": "Storytelling is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
+      "value": "Storytelling is the sole property of Roads Design LLC. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
     },
     {
       "name": "mapImage",
@@ -12951,7 +12951,7 @@
     {
       "name": "tilesetCopyright",
       "type": "string",
-      "value": "This map is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
+      "value": "This map is the sole property of Roads Design LLC. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
     }
   ],
   "renderorder": "right-down",
