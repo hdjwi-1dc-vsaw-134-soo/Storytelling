@@ -10146,7 +10146,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "library-1-floor-center.tmj#entry-from-left"
+              "value": "https://play.workadventu.re/@/workspacesky/storytelling/storytelling---library-first-floor-center#entry-from-left"
             }
           ],
           "rotation": 0,
@@ -12701,7 +12701,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "library-1-floor-left-chunk-1-9259f442.png",
+      "image": "library-1-floor-left-chunk-1-581fd033.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12777,7 +12777,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "library-1-floor-left-chunk-2-9259f442.png",
+      "image": "library-1-floor-left-chunk-2-581fd033.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12792,7 +12792,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "library-1-floor-left-chunk-3-9259f442.png",
+      "image": "library-1-floor-left-chunk-3-581fd033.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12807,7 +12807,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "library-1-floor-left-chunk-4-9259f442.png",
+      "image": "library-1-floor-left-chunk-4-581fd033.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12822,7 +12822,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "library-1-floor-left-chunk-5-9259f442.png",
+      "image": "library-1-floor-left-chunk-5-581fd033.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12837,7 +12837,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "library-1-floor-left-chunk-6-9259f442.png",
+      "image": "library-1-floor-left-chunk-6-581fd033.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12852,7 +12852,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "library-1-floor-left-chunk-7-9259f442.png",
+      "image": "library-1-floor-left-chunk-7-581fd033.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12867,7 +12867,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "library-1-floor-left-chunk-8-9259f442.png",
+      "image": "library-1-floor-left-chunk-8-581fd033.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12882,7 +12882,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "library-1-floor-left-chunk-9-9259f442.png",
+      "image": "library-1-floor-left-chunk-9-581fd033.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12897,7 +12897,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "library-1-floor-left-chunk-10-9259f442.png",
+      "image": "library-1-floor-left-chunk-10-581fd033.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12912,7 +12912,7 @@
     {
       "columns": 10,
       "firstgid": 2561,
-      "image": "library-1-floor-left-chunk-11-9259f442.png",
+      "image": "library-1-floor-left-chunk-11-581fd033.png",
       "imageheight": 320,
       "imagewidth": 320,
       "margin": 0,
