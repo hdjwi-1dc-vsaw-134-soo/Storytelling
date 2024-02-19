@@ -12004,7 +12004,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "mansion-room-3.tmj#entry-from-right-m2"
+              "value": "https://play.workadventu.re/@/workspacesky/storytelling/storytelling---mansion-room-3#entry-from-right-m2"
             }
           ],
           "rotation": 0,
@@ -12022,7 +12022,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "mansion-room-2.tmj#entry-from-m3"
+              "value": "https://play.workadventu.re/@/workspacesky/storytelling/storytelling---mansion-room-2#entry-from-m3"
             }
           ],
           "rotation": 0,
@@ -12040,7 +12040,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "storytelling.tmj#entry-from-mansion"
+              "value": "https://play.workadventu.re/@/workspacesky/storytelling/storytelling#entry-from-mansion"
             }
           ],
           "rotation": 0,
@@ -14078,7 +14078,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "mansion-room-1-chunk-1-e7f5326a.png",
+      "image": "mansion-room-1-chunk-1-ebfd95e0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14154,7 +14154,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "mansion-room-1-chunk-2-e7f5326a.png",
+      "image": "mansion-room-1-chunk-2-ebfd95e0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14169,7 +14169,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "mansion-room-1-chunk-3-e7f5326a.png",
+      "image": "mansion-room-1-chunk-3-ebfd95e0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14184,7 +14184,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "mansion-room-1-chunk-4-e7f5326a.png",
+      "image": "mansion-room-1-chunk-4-ebfd95e0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14199,7 +14199,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "mansion-room-1-chunk-5-e7f5326a.png",
+      "image": "mansion-room-1-chunk-5-ebfd95e0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14214,7 +14214,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "mansion-room-1-chunk-6-e7f5326a.png",
+      "image": "mansion-room-1-chunk-6-ebfd95e0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14229,7 +14229,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "mansion-room-1-chunk-7-e7f5326a.png",
+      "image": "mansion-room-1-chunk-7-ebfd95e0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14244,7 +14244,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "mansion-room-1-chunk-8-e7f5326a.png",
+      "image": "mansion-room-1-chunk-8-ebfd95e0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14259,7 +14259,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "mansion-room-1-chunk-9-e7f5326a.png",
+      "image": "mansion-room-1-chunk-9-ebfd95e0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14274,7 +14274,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "mansion-room-1-chunk-10-e7f5326a.png",
+      "image": "mansion-room-1-chunk-10-ebfd95e0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14289,7 +14289,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "mansion-room-1-chunk-11-e7f5326a.png",
+      "image": "mansion-room-1-chunk-11-ebfd95e0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14304,7 +14304,7 @@
     {
       "columns": 12,
       "firstgid": 2817,
-      "image": "mansion-room-1-chunk-12-e7f5326a.png",
+      "image": "mansion-room-1-chunk-12-ebfd95e0.png",
       "imageheight": 384,
       "imagewidth": 384,
       "margin": 0,

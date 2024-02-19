@@ -8016,7 +8016,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "storytelling.tmj#entry-from-captains-room"
+              "value": "https://play.workadventu.re/@/workspacesky/storytelling/storytelling#entry-from-captains-room"
             }
           ],
           "rotation": 0,
@@ -10031,7 +10031,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "captains-room-chunk-1-905affbc.png",
+      "image": "captains-room-chunk-1-01343d13.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10107,7 +10107,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "captains-room-chunk-2-905affbc.png",
+      "image": "captains-room-chunk-2-01343d13.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10122,7 +10122,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "captains-room-chunk-3-905affbc.png",
+      "image": "captains-room-chunk-3-01343d13.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10137,7 +10137,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "captains-room-chunk-4-905affbc.png",
+      "image": "captains-room-chunk-4-01343d13.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10152,7 +10152,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "captains-room-chunk-5-905affbc.png",
+      "image": "captains-room-chunk-5-01343d13.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10167,7 +10167,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "captains-room-chunk-6-905affbc.png",
+      "image": "captains-room-chunk-6-01343d13.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10182,7 +10182,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "captains-room-chunk-7-905affbc.png",
+      "image": "captains-room-chunk-7-01343d13.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10197,7 +10197,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "captains-room-chunk-8-905affbc.png",
+      "image": "captains-room-chunk-8-01343d13.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10212,7 +10212,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "captains-room-chunk-9-905affbc.png",
+      "image": "captains-room-chunk-9-01343d13.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10227,7 +10227,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "captains-room-chunk-10-905affbc.png",
+      "image": "captains-room-chunk-10-01343d13.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10242,7 +10242,7 @@
     {
       "columns": 6,
       "firstgid": 2561,
-      "image": "captains-room-chunk-11-905affbc.png",
+      "image": "captains-room-chunk-11-01343d13.png",
       "imageheight": 192,
       "imagewidth": 192,
       "margin": 0,
