@@ -307,7 +307,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"mansion-room-1.tmj#entry-from-right"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/storytelling\/storytelling---mansion-room-1#entry-from-right"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -324,7 +324,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"mansion-room-2.tmj#entry-from-m3"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/storytelling\/storytelling---mansion-room-2#entry-from-m3"
                         }],
                  "rotation":0,
                  "type":"area",

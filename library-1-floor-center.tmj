@@ -638,7 +638,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Storytelling - Library First Floor"
+         "value":"Storytelling - Library First Floor Center"
         }, 
         {
          "name":"tilesetCopyright",

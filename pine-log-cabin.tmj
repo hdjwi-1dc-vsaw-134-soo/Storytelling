@@ -213,7 +213,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"storytelling.tmj#entry-from-pine-log-cabin"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/storytelling\/storytelling#entry-from-pine-log-cabin"
                         }],
                  "rotation":0,
                  "type":"area",

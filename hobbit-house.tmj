@@ -219,7 +219,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"storytelling.tmj#entry-from-hobbit-house"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/storytelling\/storytelling#entry-from-hobbit-house"
                         }],
                  "rotation":0,
                  "type":"area",

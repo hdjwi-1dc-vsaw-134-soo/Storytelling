@@ -219,7 +219,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"storytelling.tmj#entry-from-cargo-floor"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/storytelling\/storytelling#entry-from-cargo-floor"
                         }],
                  "rotation":0,
                  "type":"area",

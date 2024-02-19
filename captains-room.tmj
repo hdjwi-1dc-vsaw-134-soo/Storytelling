@@ -219,7 +219,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"storytelling.tmj#entry-from-captains-room"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/storytelling\/storytelling#entry-from-captains-room"
                         }],
                  "rotation":0,
                  "type":"area",

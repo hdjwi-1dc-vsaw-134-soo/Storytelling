@@ -1681,7 +1681,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"books-building.tmj#entry-from-st-1"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/storytelling\/storytelling---books-building#entry-from-st-1"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1698,7 +1698,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"books-building.tmj#entry-from-st-2"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/storytelling\/storytelling---books-building#entry-from-st-2"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1715,7 +1715,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"books-building.tmj#entry-from-st-3"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/storytelling\/storytelling---books-building#entry-from-st-3"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1732,7 +1732,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"books-building.tmj#entry-from-st-4"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/storytelling\/storytelling---books-building#entry-from-st-4"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1749,7 +1749,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"books-building.tmj#entry-from-st-5"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/storytelling\/storytelling---books-building#entry-from-st-5"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1766,7 +1766,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"books-building.tmj#entry-from-st-6"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/storytelling\/storytelling---books-building#entry-from-st-6"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1783,7 +1783,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"hobbit-house.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/storytelling\/storytelling---hobbit-house"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1800,7 +1800,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"captains-room.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/storytelling\/storytelling---captains-room"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1817,7 +1817,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"library-1-floor-center.tmj#entry-from-st"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/storytelling\/storytelling---library-first-floor#entry-from-st"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1834,7 +1834,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"pine-log-cabin.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/storytelling\/storytelling---pine-log-cabin"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1851,7 +1851,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"cargo-floor.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/storytelling\/storytelling---cargo-floor"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1868,7 +1868,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"mansion-room-1.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/storytelling\/storytelling---mansion-room-1"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1919,7 +1919,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"storytelling.tmj#entry\/entry-portal-1"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/storytelling\/storytelling#entry\/entry-portal-1"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1936,7 +1936,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"storytelling.tmj#entry\/entry-portal-2"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/storytelling\/storytelling#entry\/entry-portal-2"
                         }],
                  "rotation":0,
                  "type":"area",

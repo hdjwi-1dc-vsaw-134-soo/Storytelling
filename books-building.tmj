@@ -581,7 +581,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"storytelling.tmj#entry-from-books-1"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/storytelling\/storytelling#entry-from-books-1"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -598,7 +598,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"storytelling.tmj#entry-from-books-2"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/storytelling\/storytelling#entry-from-books-2"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -615,7 +615,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"storytelling.tmj#entry-from-books-3"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/storytelling\/storytelling#entry-from-books-3"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -632,7 +632,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"storytelling.tmj#entry-from-books-4"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/storytelling\/storytelling#entry-from-books-4"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -649,7 +649,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"storytelling.tmj#entry-from-books-5"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/storytelling\/storytelling#entry-from-books-5"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -666,7 +666,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"storytelling.tmj#entry-from-books-6"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/storytelling\/storytelling#entry-from-books-6"
                         }],
                  "rotation":0,
                  "type":"area",
