@@ -12834,7 +12834,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "mansion-room-2-chunk-1-a276d2f0.png",
+      "image": "mansion-room-2-chunk-1-28df129f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12990,7 +12990,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "mansion-room-2-chunk-2-a276d2f0.png",
+      "image": "mansion-room-2-chunk-2-28df129f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13005,7 +13005,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "mansion-room-2-chunk-3-a276d2f0.png",
+      "image": "mansion-room-2-chunk-3-28df129f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13020,7 +13020,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "mansion-room-2-chunk-4-a276d2f0.png",
+      "image": "mansion-room-2-chunk-4-28df129f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13035,7 +13035,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "mansion-room-2-chunk-5-a276d2f0.png",
+      "image": "mansion-room-2-chunk-5-28df129f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13050,7 +13050,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "mansion-room-2-chunk-6-a276d2f0.png",
+      "image": "mansion-room-2-chunk-6-28df129f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13065,7 +13065,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "mansion-room-2-chunk-7-a276d2f0.png",
+      "image": "mansion-room-2-chunk-7-28df129f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13080,7 +13080,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "mansion-room-2-chunk-8-a276d2f0.png",
+      "image": "mansion-room-2-chunk-8-28df129f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13095,7 +13095,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "mansion-room-2-chunk-9-a276d2f0.png",
+      "image": "mansion-room-2-chunk-9-28df129f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13110,7 +13110,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "mansion-room-2-chunk-10-a276d2f0.png",
+      "image": "mansion-room-2-chunk-10-28df129f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13125,7 +13125,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "mansion-room-2-chunk-11-a276d2f0.png",
+      "image": "mansion-room-2-chunk-11-28df129f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13140,7 +13140,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "mansion-room-2-chunk-12-a276d2f0.png",
+      "image": "mansion-room-2-chunk-12-28df129f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13155,7 +13155,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "mansion-room-2-chunk-13-a276d2f0.png",
+      "image": "mansion-room-2-chunk-13-28df129f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13170,7 +13170,7 @@
     {
       "columns": 7,
       "firstgid": 3329,
-      "image": "mansion-room-2-chunk-14-a276d2f0.png",
+      "image": "mansion-room-2-chunk-14-28df129f.png",
       "imageheight": 224,
       "imagewidth": 224,
       "margin": 0,
@@ -13195,6 +13195,11 @@
       "name": "mapCopyright",
       "type": "string",
       "value": "Storytelling is the sole property of Roads Design LLC. All rights are reserved by Roads Design LLC. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of Roads Design LLC."
+    },
+    {
+      "name": "mapDescription",
+      "type": "string",
+      "value": "Storytelling maps are the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads Design LLC. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
     },
     {
       "name": "mapImage",
